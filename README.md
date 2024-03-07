@@ -68,3 +68,6 @@ Honorable Mentions:
 	- Team: Paul Thompson, Niko Kumar, Dilya Anvarbekova, Emily Buergler
 	- Video: https://www.youtube.com/watch?v=sR5MQfJuiuw
 	
+## Spring 2020
+
+Lost to time. Message us if you have info
