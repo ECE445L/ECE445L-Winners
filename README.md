@@ -45,7 +45,7 @@ Honorable Mention:
 	- Video: https://youtu.be/ibu6JXT-HoI
 
 Honorable Mention:
-4. Multifunction Voice Assistant
+* Multifunction Voice Assistant
 	- Team: Xylon Vester, Vittorio Adeagbo, Evan Canter, Olanike
 
 ## Fall 2020
@@ -56,6 +56,15 @@ Honorable Mention:
 2. UT Calc
 	- Team: Pete Fan, Sai Koukuntla, Ethan Golla, Vincent Tarzi
 	- Video: https://www.youtube.com/watch?v=qJLHiARLvFs
-	
-	
+3. WiFi connected 3-D printed robotic hand
+	- Team: Dillon Heinen, David Janosky, Blake Margolis, Will Worthington
+	- Video: https://www.youtube.com/watch?v=QjJwSEB_Ok0
+
+Honorable Mentions:
+* The Box
+	- Team: Manolo Alvarez, Emilio Cantu, Ethan Denfeld, Adrian Garza
+	- Video: https://www.youtube.com/watch?v=CKHXlHFCdsg
+* Face Following Camera 
+	- Team: Paul Thompson, Niko Kumar, Dilya Anvarbekova, Emily Buergler
+	- Video: https://www.youtube.com/watch?v=sR5MQfJuiuw
 	
