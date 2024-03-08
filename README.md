@@ -45,9 +45,9 @@ This is the list of winners of the 445L Embeded System Design Labs
 	- Description: Replica of Nintendo DS
 2. Music Glove
 	- Team: Cole Choe, Jesse Valdelamar, Ravi Akalkotkar, Wilson Odom
-	- Description: ===MISSING DESC===
+	- Description: Glove with flex resistors to play different notes/light up on the different fingers.
 3. Manhunt EX
-	- Team: Joe Lawler, Julian Wearden, Ryan McSweeney, Zachary Bouthillette
+	- Team: Alec Neiman, Julian Wearden, Ryan McSweeney, Zachary Bouthillette
 	- Description: Multiplayer laser tag-like game played over WiFi hotspot
 
 ## Fall 2021
