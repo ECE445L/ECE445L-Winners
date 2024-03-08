@@ -10,19 +10,38 @@ This is the list of winners of the 445L Embeded System Design Labs
 ## Fall 2023
 
 1. Dance Dance Revolution
-	- Team: 
-2.
-3. 
-
-## Spring 2024
-
-## Fall 2023
+	- Team: Aditi Sarlashkar, Aniketh Devarasetty, Audrey Pick, Jeff Teng
+	- Description: Minature Arcade cabiniet, with 'online' play, and adjustible difficulty
+2. Keyboard
+	- Team: April Douglas, Eric Wang, Jenna May, Matija Jankovic 
+	- Description: USB/Bluetooth keyboard with integrated bongocat that types with you and WPM counter 
+3. RC Car
+	- Team: Jefferson Fu-Yao Yu, Kevin Wang, Mads Hojgaard, Wesley Holcomb
+	- Description: Minature car with telemetry, autonomous function, and remote control
 
 ## Spring 2023
 
+1. ===MISSING MEMBERS===
+2. ===MISSING MEMBERS===
+3. ===MISSING MEMBERS===
+
 ## Fall 2022
 
+1. MyCampusNav
+	- Team: Alejandro Nunez Braco, Jason Kacines
+	- Description: Compass that points you in the direction of the UT Tower or other buildings
+2. Dancing Bevo
+	- Team: Austin James, Elise Johnson, ===MISSING MEMBERS===
+	- Description: Dancing Bevo Doll Animatronic that dances and lights up with music played via aux-in.
+3. MegaMouse:
+	- Team: Aeybel Varghese, Brandon King, Daniel Sosa, Harsh Bakadia
+	- Description: USB HID Mouse that is controlled by head movements and gesture recognition. Used to control a plane in Warthunder+MSFT Flight sim.
+
 ## Spring 2022
+
+1. ===MISSING MEMBERS===
+2. ===MISSING MEMBERS===
+3. ===MISSING MEMBERS===
 
 
 ## Fall 2021
