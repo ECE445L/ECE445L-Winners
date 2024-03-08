@@ -46,12 +46,12 @@ This is the list of winners of the 445L Embeded System Design Labs
 
 ## Fall 2021
 
-1. 3-D printer
-	- Team: Kellan Cerveny, Edaline Engmann, Sammy Shin, Wilhelm Bagcal
-	- Video: https://www.youtube.com/watch?v=GXcW5YrqNoA&t=1s
-2. The Bob Ross Device
+1. The Bob Ross Device
 	- Team: Malav Shah, Meha Halabe, Franklin Mao, Jordon Kashanchi
 	- Video: https://www.youtube.com/watch?v=qhullwgcdUA
+2. 3-D printer
+	- Team: Kellan Cerveny, Edaline Engmann, Sammy Shin, Wilhelm Bagcal
+	- Video: https://www.youtube.com/watch?v=GXcW5YrqNoA&t=1s
 3. HUDset
 	- Team: Lisong Sun, Kerry Tu, Dakota Britton, Casey Kim
 	- Video: https://youtu.be/10rfZ0_9bQ0
