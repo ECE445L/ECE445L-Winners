@@ -21,9 +21,15 @@ This is the list of winners of the 445L Embeded System Design Labs
 
 ## Spring 2023
 
-1. ===MISSING MEMBERS===
-2. ===MISSING MEMBERS===
-3. ===MISSING MEMBERS===
+1. ===MISSING PROJECT===
+	- Team: ===MISSING MEMBERS===
+	- Description: ===MISSING DESCRIPTION===
+2. ===MISSING PROJECT===
+	- Team: ===MISSING MEMBERS===
+	- Description: ===MISSING DESCRIPTION===
+3. ===MISSING PROJECT===
+	- Team: ===MISSING MEMBERS===
+	- Description: ===MISSING DESCRIPTION===
 
 ## Fall 2022
 
