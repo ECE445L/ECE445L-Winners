@@ -28,8 +28,9 @@ This is the list of winners of the 445L Embeded System Design Labs
 ## Fall 2022
 
 1. MyCampusNav
-	- Team: Alejandro Nunez Braco, Jason Kacines
+	- Team: Alejandro Nunez Braco, Jackson Carmichael, Jason Kacines, Hayden Pietsch 
 	- Description: Compass that points you in the direction of the UT Tower or other buildings
+	- Video: 
 2. Dancing Bevo
 	- Team: Austin James, Elise Johnson, ===MISSING MEMBERS===
 	- Description: Dancing Bevo Doll Animatronic that dances and lights up with music played via aux-in.
@@ -39,10 +40,15 @@ This is the list of winners of the 445L Embeded System Design Labs
 
 ## Spring 2022
 
-1. ===MISSING MEMBERS===
-2. ===MISSING MEMBERS===
-3. ===MISSING MEMBERS===
-
+1. DS Emulator
+	- Team: Alex Ali, Alex Liu, Joe Lawler, Jorge Lopez	
+	- Description: Replica of Nintendo DS
+2. Music Glove
+	- Team: Cole Choe, Jesse Valdelamar, Ravi Akalkotkar, Wilson Odom
+	- Description: ===MISSING DESC===
+3. Manhunt EX
+	- Team: Joe Lawler, Julian Wearden, Ryan McSweeney, Zachary Bouthillette
+	- Description: Multiplayer laser tag-like game played over WiFi hotspot
 
 ## Fall 2021
 
