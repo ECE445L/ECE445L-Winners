@@ -21,15 +21,13 @@ This is the list of winners of the 445L Embeded System Design Labs
 
 ## Spring 2023
 
-1. ===MISSING PROJECT===
-	- Team: ===MISSING MEMBERS===
-	- Description: ===MISSING DESCRIPTION===
-2. ===MISSING PROJECT===
-	- Team: ===MISSING MEMBERS===
-	- Description: ===MISSING DESCRIPTION===
-3. ===MISSING PROJECT===
-	- Team: ===MISSING MEMBERS===
-	- Description: ===MISSING DESCRIPTION===
+1. Laser Tag
+	- Team: Anthony Hermez, Avyay Ramanathan, Vincent Liew, Vivek Keval
+	- Description: Laser Tag, 1st place by coin flip
+2. Laser Tag
+	- Team: Ben Endara, Jackson Schilling, Minseo Park, Tianfang Guo
+	- Description: Laser Tag, 2nd place by coin flip
+3. No Third place was assigned for this year.
 
 ## Fall 2022
 
@@ -38,7 +36,7 @@ This is the list of winners of the 445L Embeded System Design Labs
 	- Description: Compass that points you in the direction of the UT Tower or other buildings
 	- Video: 
 2. Dancing Bevo
-	- Team: Austin James, Elise Johnson, ===MISSING MEMBERS===
+	- Team: Austin James, Elise Johnson, Noah Zamarripa, Reece Lehmann
 	- Description: Dancing Bevo Doll Animatronic that dances and lights up with music played via aux-in.
 3. MegaMouse:
 	- Team: Aeybel Varghese, Brandon King, Daniel Sosa, Harsh Bakadia
