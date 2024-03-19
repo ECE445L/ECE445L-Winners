@@ -3,6 +3,8 @@ This is the list of winners of the 445L Embeded System Design Labs
 
 ## Spring 2024  
 
+**This could be you!**
+
 1. TBA
 2. TBA
 3. TBA
@@ -21,6 +23,8 @@ This is the list of winners of the 445L Embeded System Design Labs
 
 ## Spring 2023
 
+[Flickr Album](https://www.flickr.com/photos/utece/albums/72177720307763148)
+
 1. Laser Tag
 	- Team: Anthony Hermez, Avyay Ramanathan, Vincent Liew, Vivek Keval
 	- Description: Laser Tag, 1st place by coin flip
@@ -30,6 +34,8 @@ This is the list of winners of the 445L Embeded System Design Labs
 3. No Third place was assigned for this year.
 
 ## Fall 2022
+
+[Flickr Album](https://www.flickr.com/photos/utece/albums/72177720304164658/)
 
 1. MyCampusNav
 	- Team: Alejandro Nunez Braco, Jackson Carmichael, Jason Kacines, Hayden Pietsch 
@@ -43,6 +49,8 @@ This is the list of winners of the 445L Embeded System Design Labs
 	- Description: USB HID Mouse that is controlled by head movements and gesture recognition. Used to control a plane in Warthunder+MSFT Flight sim.
 
 ## Spring 2022
+
+[Flickr Album](https://www.flickr.com/photos/utece/albums/72177720298776787)
 
 1. DS Emulator
 	- Team: Alex Ali, Alex Liu, Joe Lawler, Jorge Lopez	
@@ -58,55 +66,58 @@ This is the list of winners of the 445L Embeded System Design Labs
 
 1. The Bob Ross Device
 	- Team: Malav Shah, Meha Halabe, Franklin Mao, Jordon Kashanchi
-	- Video: https://www.youtube.com/watch?v=qhullwgcdUA
+	- Video: [https://www.youtube.com/watch?v=qhullwgcdUA](https://www.youtube.com/watch?v=qhullwgcdUA)
 2. 3-D printer
 	- Team: Kellan Cerveny, Edaline Engmann, Sammy Shin, Wilhelm Bagcal
-	- Video: https://www.youtube.com/watch?v=GXcW5YrqNoA&t=1s
+	- Video: [https://www.youtube.com/watch?v=GXcW5YrqNoA&t](https://www.youtube.com/watch?v=GXcW5YrqNoA&t)
 3. HUDset
 	- Team: Lisong Sun, Kerry Tu, Dakota Britton, Casey Kim
-	- Video: https://youtu.be/10rfZ0_9bQ0
+	- Video: [https://youtu.be/10rfZ0_9bQ0](https://youtu.be/10rfZ0_9bQ0)
 
 Honorable Mention:
-* Keyboard
+
+- Keyboard
 	- Team: Jared McArthur, Caroline Li, Josh Urbana, Kevin Tsai
-	- Video: https://youtu.be/CgJ-hUdc0HQ
+	- Video: [https://youtu.be/CgJ-hUdc0HQ](https://youtu.be/CgJ-hUdc0HQ)
 	
 ## Spring 2021
 
 1. Lightsaber
 	- Team: Adeel Rehman, Allen Jiang, Sophia Jiang, Xiangyi Chen
-	- Video: https://youtu.be/Yrs18WD5HyQ
+	- Video: [https://youtu.be/Yrs18WD5HyQ](https://youtu.be/Yrs18WD5HyQ)
 2. Haptic Mouse
 	- Team: Matthew Yu, Kevin Mechler, Arshad Bacchus
-	- Video: https://youtu.be/ZX0DsBXqy6Q
+	- Video: [https://youtu.be/ZX0DsBXqy6Q](https://youtu.be/ZX0DsBXqy6Q)
 3. Fallout Pip-Boy Mk445
 	- Team: Alan Zhang,	Jesse Zhang, Ricky Tiet, Quockhang Truong
-	- Video: https://youtu.be/ibu6JXT-HoI
+	- Video: [https://youtu.be/ibu6JXT-HoI](https://youtu.be/ibu6JXT-HoI)
 
 Honorable Mention:
-* Multifunction Voice Assistant
+
+- Multifunction Voice Assistant
 	- Team: Xylon Vester, Vittorio Adeagbo, Evan Canter, Olanike
-	- Video:https://www.youtube.com/watch?v=KaX962jlKoo
+	- Video: [https://www.youtube.com/watch?v=KaX962jlKoo](https://www.youtube.com/watch?v=KaX962jlKoo)
 
 ## Fall 2020
 
 1. GPS
 	- Team: Ashlynn Turbett, Burak Biyikli, Carter Milch, Joshua Bestor
-	- Video: https://youtu.be/JPR61UeS5lc
+	- Video: [https://youtu.be/JPR61UeS5lc](https://youtu.be/JPR61UeS5lc)
 2. UT Calc
 	- Team: Pete Fan, Sai Koukuntla, Ethan Golla, Vincent Tarzi
-	- Video: https://www.youtube.com/watch?v=qJLHiARLvFs
+	- Video: [https://www.youtube.com/watch?v=qJLHiARLvFs](https://www.youtube.com/watch?v=qJLHiARLvFs)
 3. WiFi connected 3-D printed robotic hand
 	- Team: Dillon Heinen, David Janosky, Blake Margolis, Will Worthington
-	- Video: https://www.youtube.com/watch?v=QjJwSEB_Ok0
+	- Video: [https://www.youtube.com/watch?v=QjJwSEB_Ok0](https://www.youtube.com/watch?v=QjJwSEB_Ok0)
 
 Honorable Mentions:
-* The Box
+
+- The Box
 	- Team: Manolo Alvarez, Emilio Cantu, Ethan Denfeld, Adrian Garza
-	- Video: https://www.youtube.com/watch?v=CKHXlHFCdsg
-* Face Following Camera 
+	- Video: [https://www.youtube.com/watch?v=CKHXlHFCdsg](https://www.youtube.com/watch?v=CKHXlHFCdsg)
+- Face Following Camera 
 	- Team: Paul Thompson, Niko Kumar, Dilya Anvarbekova, Emily Buergler
-	- Video: https://www.youtube.com/watch?v=sR5MQfJuiuw
+	- Video: [https://www.youtube.com/watch?v=sR5MQfJuiuw](https://www.youtube.com/watch?v=sR5MQfJuiuw)
 	
 ## Spring 2020
 
@@ -122,3 +133,39 @@ Lost to time. Message us if you have info
 3. ===MISSING PROJECT===
 	- Team: ===MISSING MEMBERS===
 	- Description: ===MISSING DESCRIPTION===
+
+## Spring 2019
+
+[Flickr Album](https://www.flickr.com/photos/utece/albums/72157707020741981/)
+
+## Spring 2018
+
+[Flickr Album](https://www.flickr.com/photos/utece/albums/72157666561386457/)
+
+## Spring 2017
+
+[Flickr Album](https://www.flickr.com/photos/utece/albums/72157683377703805)
+
+## Fall 2016
+
+[Flickr Album](https://www.flickr.com/photos/utece/albums/72157677460597315)
+
+## Spring 2016
+
+[Flickr Album](https://www.flickr.com/photos/utece/albums/72157668180718675)
+
+## Fall 2015
+
+[Flickr Album](https://www.flickr.com/photos/utece/albums/72157661313361679)
+
+## Fall 2013
+
+[Flickr Album](https://www.flickr.com/photos/utece/albums/72157638421692293)
+
+## Fall 2012
+
+[Flickr Album](https://www.flickr.com/photos/utece/albums/72157632190581651)
+
+## Fall 2011
+
+[Flickr Album](https://www.flickr.com/photos/utece/albums/72157628323074175)
