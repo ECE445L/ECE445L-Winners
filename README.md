@@ -40,7 +40,6 @@ This is the list of winners of the 445L Embeded System Design Labs
 1. MyCampusNav
 	- Team: Alejandro Nunez Braco, Jackson Carmichael, Jason Kacines, Hayden Pietsch 
 	- Description: Compass that points you in the direction of the UT Tower or other buildings
-	- Video: 
 2. Dancing Bevo
 	- Team: Austin James, Elise Johnson, Noah Zamarripa, Reece Lehmann
 	- Description: Dancing Bevo Doll Animatronic that dances and lights up with music played via aux-in.
@@ -121,7 +120,7 @@ Honorable Mentions:
 	
 ## Spring 2020
 
-Lost to time. Message us if you have info
+Lost to time due to COVID. Message us if you have info
 === MISING INFO ===
 
 1. ===MISSING PROJECT===
@@ -137,6 +136,17 @@ Lost to time. Message us if you have info
 ## Spring 2019
 
 [Flickr Album](https://www.flickr.com/photos/utece/albums/72157707020741981/)
+
+## Fall 2018 
+
+1. LED Globe
+    - Team: Rita Kambil,, Shivani Gupta, Keeshan Patel, Shawn Victor
+    - Video:
+        - [https://www.dropbox.com/scl/fi/i58llpj85nrwsnfmzrbpw/IMG_2591.MOV?rlkey=923a41ywpqxhvwr9w5t0lxjip](https://www.dropbox.com/scl/fi/i58llpj85nrwsnfmzrbpw/IMG_2591.MOV?rlkey=923a41ywpqxhvwr9w5t0lxjip) 
+        - [https://www.dropbox.com/scl/fi/euk5jrkbplxelcal1uiyh/IMG_2599.MOV?rlkey=oxj3wtr5ottbqxja2373f7x1i](https://www.dropbox.com/scl/fi/euk5jrkbplxelcal1uiyh/IMG_2599.MOV?rlkey=oxj3wtr5ottbqxja2373f7x1i)
+        - [https://www.dropbox.com/scl/fi/59n8kpu24bo6fkfgsjoww/IMG_2600.MOV?rlkey=tivbc67bi58j0zxyin2hpn8l3](https://www.dropbox.com/scl/fi/59n8kpu24bo6fkfgsjoww/IMG_2600.MOV?rlkey=tivbc67bi58j0zxyin2hpn8l3)
+2. Cell Phone
+    - Team: Oluwole Akeredolu, Gilad Croll, Benjamin Thorell, Yaw Turkson
 
 ## Spring 2018
 
