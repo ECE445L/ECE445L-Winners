@@ -1,13 +1,28 @@
 # Overview
 This is the list of winners of the 445L Embeded System Design Labs
 
-## Spring 2024  
+## Fall 2024  
 
 **This could be you!**
 
 1. TBA
 2. TBA
 3. TBA
+
+## Spring 2024  
+
+1. Drag Racers
+	- Team: Connor Leu, Frank Collebrusco, Rocco Perciavalle, Sajid Bhuiyan
+	- Description:
+2. T Pod
+	- Team: Joon Song, Prithvi Senthilkumar, Siddhant Pandit, Wyatt Cole
+	- Description:
+3. Fish Feeder (TIED)
+	- Team: Luis Abhijay Bhaskaran, Duarte Gonzalez, Jeremy Tran, Noah Najvar 
+	- Description:
+3. Game boy emulator (TIED)
+	- Team: Arnold Venter, Ishan Deshpande, Luke Mason, Nadia Houston
+	- Description:
 
 ## Fall 2023
 
