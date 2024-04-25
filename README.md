@@ -17,10 +17,10 @@ This is the list of winners of the 445L Embeded System Design Labs
 2. T Pod
 	- Team: Joon Song, Prithvi Senthilkumar, Siddhant Pandit, Wyatt Cole
 	- Description:
-3. Fish Feeder (TIED)
+3. Fish Feeder (TIED for third)
 	- Team: Luis Abhijay Bhaskaran, Duarte Gonzalez, Jeremy Tran, Noah Najvar 
 	- Description:
-3. Game boy emulator (TIED)
+3. Game boy emulator (TIED for third)
 	- Team: Arnold Venter, Ishan Deshpande, Luke Mason, Nadia Houston
 	- Description:
 
