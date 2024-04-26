@@ -1,5 +1,5 @@
 # Overview
-This is the list of winners of the 445L Embeded System Design Labs
+This is the list of winners of the 445L Embeded System Design Labs.
 
 ## Fall 2024  
 
@@ -23,6 +23,12 @@ This is the list of winners of the 445L Embeded System Design Labs
 3. Game boy emulator (TIED for third)
 	- Team: Arnold Venter, Ishan Deshpande, Luke Mason, Nadia Houston
 	- Description:
+
+Honorable Mention:
+
+- Garfield Wheel
+	- Team: Calvin Heischman, Gabriel Moore
+	- Video: HID-compliant (and Garfield-themed) game controller with embedded button mapping firmware and gyroscope controls
 
 ## Fall 2023
 
