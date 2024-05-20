@@ -20,9 +20,11 @@ This is the list of winners of the 445L Embeded System Design Labs.
    - ![](Sp24/1%20Drag%20Racers%20-%20Cars.jpg)
    - ![](Sp24/1%20Drag%20Racers%20-%20Controller.jpg)
    - ![](Sp24/1%20Drag%20Racers%20-%20Team.jpg)
-2. T Pod
+2. tPod
    - Team: Joon Song, Prithvi Senthilkumar, Siddhant Pandit, Wyatt Cole
-   - Description:
+   - Description: The tPod is a music player device that can play multiple songs and send messages to other tPods
+   - ![](Sp24/2%20Tpod%201.jpeg)
+   - ![](Sp24/2%20Tpod%202.jpg)
    - ![](Sp24/2%20T%20Pod.jpg)
 3. Fish Feeder (TIED for third)
    - Team: Luis Abhijay Bhaskaran, Duarte Gonzalez, Jeremy Tran, Noah Najvar 
@@ -53,7 +55,7 @@ Honorable Mention:
 3. RC Car
    - Team: Jefferson Fu-Yao Yu, Kevin Wang, Mads Hojgaard, Wesley Holcomb
    - Description: Minature car with telemetry, autonomous function, and remote control
-   - [Video](./Fa23/3 car.mp4)
+   - [Video](./Fa23/3%20car.mp4)
 
 ## Spring 2023
 
