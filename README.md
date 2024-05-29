@@ -212,6 +212,17 @@ Lost to time due to COVID. Message us if you have info
 
 [Flickr Album](https://www.flickr.com/photos/utece/albums/72157632190581651)
 
+[Cockrell News Article](https://www.ece.utexas.edu/news/ee-445l-winners-announced)
+
+1. Midi Loop Station
+   - Team: Joe Martinez and Bassem Iskander
+2. Teaching Piano
+   - Team: Bryan Brumm and Mochi Li
+3. Theremin
+   - Team: Ford Rylander and Forrest Stallings
+4. Lie Detector
+   - Team: Joel East and Tyler McDonnell
+
 ## Fall 2011
 
 [Flickr Album](https://www.flickr.com/photos/utece/albums/72157628323074175)
