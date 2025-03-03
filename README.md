@@ -2,13 +2,35 @@
 
 This is the list of winners of the 445L Embeded System Design Labs.
 
-## Fall 2024
+## Spring 2025
 
 **This could be you!**
 
 1. TBA
 2. TBA
 3. TBA
+
+## Fall 2024
+
+1. Dawg
+   - Team: Devin Kretschman, Dylan Kretschman, Lakshay Gupta, Roy Mor
+   - Description: Robot dog that can walk, dance, and entertain
+   - ![](24Fa/Dawg.jpg)
+2. Piano
+   - Team: Ethan Hale, Maanav Koladia, Nathan Williams, Sarah Khurram 
+   - Description: Digital piano and keyboard with multiple tones and high fidelity
+   - ![](24Fa/Piano.jpg)
+3. Arcade Range
+   - Team: Ankit Patel, Arnav Vats, Paul Bessler, Sahil Shah 
+   - Description: Arcade range where you compete to see who can knock over the most targets in a short time frame
+   - ![](24Fa/Arcade%20Range.jpg)
+
+Honorable Mention:
+
+- Sound Shooter
+  - Team: Kanaan Macias, Ravi Patel, Ryan Zheng, Stephanie Goff
+  - Description: Shoot invisible enemies you can only hear with your trusty sound shooter
+  - ![](24Fa/Sound%20Shooter.jpg)
 
 ## Spring 2024
 
@@ -17,45 +39,45 @@ This is the list of winners of the 445L Embeded System Design Labs.
 1. Drag Racers
    - Team: Connor Leu, Frank Collebrusco, Rocco Perciavalle, Sajid Bhuiyan
    - Description: 
-   - ![](Sp24/1%20Drag%20Racers%20-%20Cars.jpg)
-   - ![](Sp24/1%20Drag%20Racers%20-%20Controller.jpg)
-   - ![](Sp24/1%20Drag%20Racers%20-%20Team.jpg)
+   - ![](24Sp/1%20Drag%20Racers%20-%20Cars.jpg)
+   - ![](24Sp/1%20Drag%20Racers%20-%20Controller.jpg)
+   - ![](24Sp/1%20Drag%20Racers%20-%20Team.jpg)
 2. tPod
    - Team: Joon Song, Prithvi Senthilkumar, Siddhant Pandit, Wyatt Cole
    - Description: The tPod is a music player device that can play multiple songs and send messages to other tPods
-   - ![](Sp24/2%20Tpod%201.jpeg)
-   - ![](Sp24/2%20Tpod%202.jpg)
-   - ![](Sp24/2%20T%20Pod.jpg)
+   - ![](24Sp/2%20Tpod%201.jpeg)
+   - ![](24Sp/2%20Tpod%202.jpg)
+   - ![](24Sp/2%20T%20Pod.jpg)
 3. Fishinator (TIED for third)
    - Team: Luis Abhijay Bhaskaran, Duarte Gonzalez, Jeremy Tran, Noah Najvar 
    - Description:
-   - ![](Sp24/3%20Fish%20Feeder.jpg)
+   - ![](24Sp/3%20Fish%20Feeder.jpg)
 4. Game boy emulator (TIED for third)
    - Team: Arnold Venter, Ishan Deshpande, Luke Mason, Nadia Houston
    - Description:
-   - ![](Sp24/3%20GBA.jpg)
+   - ![](24Sp/3%20GBA.jpg)
 
 Honorable Mention:
 
 - Garfield Wheel
   - Team: Calvin Heischman, Gabriel Moore
   - Video: HID-compliant (and Garfield-themed) game controller with embedded button mapping firmware and gyroscope controls
-  - ![](Sp24/4%20Garfield%20Wheel.jpg)
+  - ![](24Sp/4%20Garfield%20Wheel.jpg)
 
 ## Fall 2023
 
 1. Dance Dance Revolution
    - Team: Aditi Sarlashkar, Aniketh Devarasetty, Audrey Pick, Jeff Teng
    - Description: Minature Arcade cabiniet, with 'online' play, and adjustible difficulty
-   - ![](Fa23/1%20ddr%201.jpg)
-   - ![](Fa23/1%20ddr%202.jpg)
+   - ![](23Fa/1%20ddr%201.jpg)
+   - ![](23Fa/1%20ddr%202.jpg)
 2. Keyboard
    - Team: April Douglas, Eric Wang, Jenna May, Matija Jankovic 
    - Description: USB/Bluetooth keyboard with integrated bongocat that types with you and WPM counter 
 3. RC Car
    - Team: Jefferson Fu-Yao Yu, Kevin Wang, Mads Hojgaard, Wesley Holcomb
    - Description: Minature car with telemetry, autonomous function, and remote control
-   - [Video](./Fa23/3%20car.mp4)
+   - [Video](./23Fa/3%20car.mp4)
 
 ## Spring 2023
 
