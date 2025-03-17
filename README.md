@@ -49,7 +49,7 @@ Honorable Mention:
    - ![](24Sp/2%20Tpod%202.jpg)
    - ![](24Sp/2%20T%20Pod.jpg)
 3. Fishinator (TIED for third)
-   - Team: Luis Abhijay Bhaskaran, Duarte Gonzalez, Jeremy Tran, Noah Najvar 
+   - Team: Abhijay Bhaskaran, Luis Duarte Gonzalez, Jeremy Tran, Noah Najvar 
    - Description:
    - ![](24Sp/3%20Fish%20Feeder.jpg)
 4. Game boy emulator (TIED for third)
