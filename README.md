@@ -50,7 +50,8 @@ Honorable Mention:
    - ![](24Sp/2%20T%20Pod.jpg)
 3. Fishinator (TIED for third)
    - Team: Abhijay Bhaskaran, Luis Duarte Gonzalez, Jeremy Tran, Noah Najvar 
-   - Description:
+   - Description: All-in-one wireless monitoring, feeding, and water-leveling system for your fishy friends!
+   - Their name is TM4Swim :)
    - ![](24Sp/3%20Fish%20Feeder.jpg)
 4. Game boy emulator (TIED for third)
    - Team: Arnold Venter, Ishan Deshpande, Luke Mason, Nadia Houston
