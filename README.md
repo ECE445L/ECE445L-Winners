@@ -91,14 +91,14 @@ Honorable Mention:
 1. Dance Dance Revolution
    - Team: Aditi Sarlashkar, Aniketh Devarasetty, Audrey Pick, Jeff Teng
    - Description: Minature Arcade cabiniet, with 'online' play, and adjustible difficulty
-   - <details><summary>Image</summary><img src="Images/24Fa/1%20ddr%201.jpg" style="max-width: 75%;"><br><img src="Images/24Fa/1%20ddr%202.jpg" style="max-width: 75%;"></details>
+   - <details><summary>Image</summary><img src="Images/23Fa/ddr_1.jpg" style="max-width: 75%;"><br><img src="Images/23Fa/ddr_2.jpg" style="max-width: 75%;"></details>
 2. Keyboard
    - Team: April Douglas, Eric Wang, Jenna May, Matija Jankovic 
    - Description: USB/Bluetooth keyboard with integrated bongocat that types with you and WPM counter 
 3. RC Car
    - Team: Jefferson Fu-Yao Yu, Kevin Wang, Mads Hojgaard, Wesley Holcomb
    - Description: Minature car with telemetry, autonomous function, and remote control
-   - [Video](./Images/24Fa/3%20car.mp4)
+   - [Video](./Images/23Fa/car.mp4)
 
 ## Spring 2023 [(Flickr Album)](https://www.flickr.com/photos/utece/albums/72177720307763148)
 
