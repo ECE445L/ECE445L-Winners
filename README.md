@@ -2,7 +2,7 @@
 
 This is the list of winners of the 445L Embeded System Design Labs.
 
-## Spring 2025
+## Fall 2025
 
 **This could be you!**
 
@@ -10,79 +10,97 @@ This is the list of winners of the 445L Embeded System Design Labs.
 2. TBA
 3. TBA
 
-## Fall 2024
+## Spring 2025 [(445L & 445M Flickr)](https://www.flickr.com/photos/utece/albums/72177720325502742/)
+
+
+1. Semi-Autonomous Penduloid
+	- Team: Abigail Vernon, Aneri Patel, Melanie Velazquez, Pratyush Patra
+	- Description: Automated cup pong robot that autonomously finds cups and changes ping pong launch velocity to beat humans at their own game.
+	- <details><summary>Image</summary><img src="Images/25Sp/Balance_Robot.jpg" style="max-width: 75%;"></details>
+2. Cup Pong Keil
+	- Team: Abigail Vernon, Aneri Patel, Melanie Velazquez, Pratyush Patra
+	- Description: Automated cup pong robot that autonomously finds cups and changes ping pong launch velocity to beat humans at their own game.
+   - <details><summary>Image</summary><img src="Images/25Sp/Cup_Pong_Team.jpg" style="max-width: 75%;"></details>
+3. Omnicar
+	- Team: Christos Psaropoulos, Frankie Ortiz, Nicholas Gab, Subi Jayakumar
+	- Description: RC car integrated with omni wheels to move in 4 directions and create drift. Controlled through bluetooth 3D-printed remote controller.
+	- No Image provided ;-; 
+
+Honorable Mentions:
+
+- Reverse Hungry Hungry Hippos
+	- Team: Adam Stelmar, Ethan Beyer, Logan Bristol, Matthew Olan
+	- Description: Defend your goal from the ball. Control your bumper with a wireless controller to score on oponents!
+   - <details><summary>Image</summary><img src="Images/25Sp/Reverse_Hungry_Hungry_Hippos_Team.jpg" style="max-width: 75%;"></details>
+- Reconfigurable Bipedal robot
+	- Team: Aayush Merchant, Carolyn Hoang, Madeleine Lee, Jiwoo Park
+	- Description: Reconfigurable Bipedal robot
+   - <details><summary>Image</summary><img src="Images/25Sp/Bipedal_Robot.jpg" style="max-width: 75%;"></details>
+
+
+## Fall 2024 [(Flickr)](https://www.flickr.com/photos/utece/albums/72177720322458700/)
 
 1. Dawg
    - Team: Devin Kretschman, Dylan Kretschman, Lakshay Gupta, Roy Mor
    - Description: Robot dog that can walk, dance, and entertain
-   - ![](24Fa/Dawg.jpg)
+   - <details><summary>Image</summary><img src="Images/24Fa/Dawg.jpg" style="max-width: 75%;"></details>
 2. Piano
    - Team: Ethan Hale, Maanav Koladia, Nathan Williams, Sarah Khurram 
    - Description: Digital piano and keyboard with multiple tones and high fidelity
-   - ![](24Fa/Piano.jpg)
+   - <details><summary>Image</summary><img src="Images/24Fa/Piano.jpg" style="max-width: 75%;"></details>
 3. Arcade Range
    - Team: Ankit Patel, Arnav Vats, Paul Bessler, Sahil Shah 
    - Description: Arcade range where you compete to see who can knock over the most targets in a short time frame
-   - ![](24Fa/Arcade%20Range.jpg)
+   - <details><summary>Image</summary><img src="Images/24Fa/Arcade%20Range.jpg" style="max-width: 75%;"></details>
 
 Honorable Mention:
 
 - Sound Shooter
   - Team: Kanaan Macias, Ravi Patel, Ryan Zheng, Stephanie Goff
   - Description: Shoot invisible enemies you can only hear with your trusty sound shooter
-  - ![](24Fa/Sound%20Shooter.jpg)
+  - <details><summary>Image</summary><img src="Images/24Fa/Sound%20Shooter.jpg" style="max-width: 75%;"></details>
 
-## Spring 2024
-
-[445L and 445M Showcase - Spring 2024 | Flickr](https://www.flickr.com/photos/utece/albums/72177720316482407/)
+## Spring 2024 [(445L & 445M Flickr)](https://www.flickr.com/photos/utece/albums/72177720316482407/)
 
 1. Drag Racers
    - Team: Connor Leu, Frank Collebrusco, Rocco Perciavalle, Sajid Bhuiyan
-   - Description: 
-   - ![](24Sp/1%20Drag%20Racers%20-%20Cars.jpg)
-   - ![](24Sp/1%20Drag%20Racers%20-%20Controller.jpg)
-   - ![](24Sp/1%20Drag%20Racers%20-%20Team.jpg)
+   - Description: Race cars which follow a track based on your minigame performance.
+   - <details><summary>Image</summary><img src="Images/24Sp/1%20Drag%20Racers%20-%20Cars.jpg" style="max-width: 75%;"><br><img src="Images/24Sp/1%20Drag%20Racers%20-%20Controller.jpg" style="max-width: 75%;"><br><img src="Images/24Sp/1%20Drag%20Racers%20-%20Team.jpg" style="max-width: 75%;"></details>
 2. tPod
    - Team: Joon Song, Prithvi Senthilkumar, Siddhant Pandit, Wyatt Cole
    - Description: The tPod is a music player device that can play multiple songs and send messages to other tPods
-   - ![](24Sp/2%20Tpod%201.jpeg)
-   - ![](24Sp/2%20Tpod%202.jpg)
-   - ![](24Sp/2%20T%20Pod.jpg)
+   - <details><summary>Image</summary><img src="Images/24Sp/2%20Tpod%201.jpeg" style="max-width: 75%;"><br><img src="Images/24Sp/2%20Tpod%202.jpg" style="max-width: 75%;"><br><img src="Images/24Sp/2%20T%20Pod.jpg" style="max-width: 75%;"></details>
 3. Fishinator (TIED for third)
    - Team: Abhijay Bhaskaran, Luis Duarte Gonzalez, Jeremy Tran, Noah Najvar 
-   - Description: All-in-one wireless monitoring, feeding, and water-leveling system for your fishy friends!
-   - Their name is TM4Swim :)
-   - ![](24Sp/3%20Fish%20Feeder.jpg)
+   - Description: All-in-one wireless monitoring, feeding, and water-leveling system for your fishy friends! The fish's name is TM4Swim :)
+   - <details><summary>Image</summary><img src="Images/24Sp/3%20Fish%20Feeder.jpg" style="max-width: 75%;"></details>
 4. Game boy emulator (TIED for third)
    - Team: Arnold Venter, Ishan Deshpande, Luke Mason, Nadia Houston
    - Description:
-   - ![](24Sp/3%20GBA.jpg)
+   - <details><summary>Image</summary><img src="Images/24Sp/3%20GBA.jpg" style="max-width: 75%;"></details>
 
 Honorable Mention:
 
 - Garfield Wheel
   - Team: Calvin Heischman, Gabriel Moore
   - Video: HID-compliant (and Garfield-themed) game controller with embedded button mapping firmware and gyroscope controls
-  - ![](24Sp/4%20Garfield%20Wheel.jpg)
+  - <details><summary>Image</summary><img src="Images/24Sp/4%20Garfield%20Wheel.jpg" style="max-width: 75%;"></details>
 
 ## Fall 2023
 
 1. Dance Dance Revolution
    - Team: Aditi Sarlashkar, Aniketh Devarasetty, Audrey Pick, Jeff Teng
    - Description: Minature Arcade cabiniet, with 'online' play, and adjustible difficulty
-   - ![](23Fa/1%20ddr%201.jpg)
-   - ![](23Fa/1%20ddr%202.jpg)
+   - <details><summary>Image</summary><img src="Images/24Fa/1%20ddr%201.jpg" style="max-width: 75%;"><br><img src="Images/24Fa/1%20ddr%202.jpg" style="max-width: 75%;"></details>
 2. Keyboard
    - Team: April Douglas, Eric Wang, Jenna May, Matija Jankovic 
    - Description: USB/Bluetooth keyboard with integrated bongocat that types with you and WPM counter 
 3. RC Car
    - Team: Jefferson Fu-Yao Yu, Kevin Wang, Mads Hojgaard, Wesley Holcomb
    - Description: Minature car with telemetry, autonomous function, and remote control
-   - [Video](./23Fa/3%20car.mp4)
+   - [Video](./Images/24Fa/3%20car.mp4)
 
-## Spring 2023
-
-[Flickr Album](https://www.flickr.com/photos/utece/albums/72177720307763148)
+## Spring 2023 [(Flickr Album)](https://www.flickr.com/photos/utece/albums/72177720307763148)
 
 1. Laser Tag
    - Team: Anthony Hermez, Avyay Ramanathan, Vincent Liew, Vivek Keval
@@ -92,9 +110,7 @@ Honorable Mention:
    - Description: Laser Tag, 2nd place by coin flip
 3. No Third place was assigned for this year.
 
-## Fall 2022
-
-[Flickr Album](https://www.flickr.com/photos/utece/albums/72177720304164658/)
+## Fall 2022 [(Flickr Album)](https://www.flickr.com/photos/utece/albums/72177720304164658/)
 
 1. MyCampusNav
    - Team: Alejandro Nunez Bravo, Jackson Carmichael, Jason Kacines, Hayden Pietsch 
@@ -106,9 +122,7 @@ Honorable Mention:
    - Team: Aeybel Varghese, Brandon King, Daniel Sosa, Harsh Bakadia
    - Description: USB HID Mouse that is controlled by head movements and gesture recognition. Used to control a plane in Warthunder+MSFT Flight sim.
 
-## Spring 2022
-
-[Flickr Album](https://www.flickr.com/photos/utece/albums/72177720298776787)
+## Spring 2022 [(Flickr Album)](https://www.flickr.com/photos/utece/albums/72177720298776787)
 
 1. DS Emulator
    - Team: Alex Ali, Alex Liu, Joe Lawler, Jorge Lopez    
