@@ -14,8 +14,8 @@ This is the list of winners of the 445L Embeded System Design Labs.
 
 
 1. Semi-Autonomous Penduloid
-	- Team: Abigail Vernon, Aneri Patel, Melanie Velazquez, Pratyush Patra
-	- Description: Automated cup pong robot that autonomously finds cups and changes ping pong launch velocity to beat humans at their own game.
+	- Team: Ayngaran Adalarasu, Syed Rayaan Hasan, Siddharth Kolukuluri, Tarun Kholay
+	- Description: 2-wheeled Self-Balancing Robot that detects changes in orientation and utilizes the inverse pendulum principle, realized through 5 control loops, to maintain its balance while subjected to mild external forces and varying payloads. The robot is capable of self-localization and navigation to Aruco-pattern setpoints marked in its environment. 
 	- <details><summary>Image</summary><img src="Images/25Sp/Balance_Robot.jpg" style="max-width: 75%;"></details>
 2. Cup Pong Keil
 	- Team: Abigail Vernon, Aneri Patel, Melanie Velazquez, Pratyush Patra
