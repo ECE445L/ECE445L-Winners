@@ -16,11 +16,11 @@ This is the list of winners of the 445L Embeded System Design Labs.
 1. Semi-Autonomous Penduloid
 	- Team: Ayngaran Adalarasu, Syed Rayaan Hasan, Siddharth Kolukuluri, Tarun Kholay
 	- Description: 2-wheeled Self-Balancing Robot that detects changes in orientation and utilizes the inverse pendulum principle, realized through 5 control loops, to maintain its balance while subjected to mild external forces and varying payloads. The robot is capable of self-localization and navigation to Aruco-pattern setpoints marked in its environment. 
-	- <details><summary>Image</summary><img src="Images/25Sp/Balance_Robot.jpg" style="max-width: 75%;"></details>
+	- <details><summary>Image</summary><img src="Images/25Sp/Balance_Robot_Team.jpg" style="max-width: 75%;"><<summary>Image</summary><img src="Images/25Sp/Balance_Robot_Robot.jpg" style="max-width: 75%;"></details>
 2. Cup Pong Keil
 	- Team: Abigail Vernon, Aneri Patel, Melanie Velazquez, Pratyush Patra
 	- Description: Automated cup pong robot that autonomously finds cups and changes ping pong launch velocity to beat humans at their own game.
-   - <details><summary>Image</summary><img src="Images/25Sp/Cup_Pong_Team.jpg" style="max-width: 75%;"></details>
+   - <details><summary>Image</summary><img src="Images/25Sp/Cup_Pong_Team2.jpg" style="max-width: 75%;"><summary>Image</summary><img src="Images/25Sp/Cup_Pong_Team.jpg" style="max-width: 75%;"></details>
 3. Omnicar
 	- Team: Christos Psaropoulos, Frankie Ortiz, Nicholas Gab, Subi Jayakumar
 	- Description: RC car integrated with omni wheels to move in 4 directions and create drift. Controlled through bluetooth 3D-printed remote controller.
@@ -34,7 +34,7 @@ Honorable Mentions:
    - <details><summary>Image</summary><img src="Images/25Sp/Reverse_Hungry_Hungry_Hippos_Team.jpg" style="max-width: 75%;"></details>
 - Reconfigurable Bipedal robot
 	- Team: Aayush Merchant, Carolyn Hoang, Madeleine Lee, Jiwoo Park
-	- Description: Reconfigurable Bipedal robot
+	- Description: Reconfigurable Bipedal robot`
    - <details><summary>Image</summary><img src="Images/25Sp/Bipedal_Robot.jpg" style="max-width: 75%;"></details>
 
 
