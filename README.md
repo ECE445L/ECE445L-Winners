@@ -24,7 +24,7 @@ This is the list of winners of the 445L Embeded System Design Labs.
 3. Omnicar
 	- Team: Christos Psaropoulos, Frankie Ortiz, Nicholas Gab, Subi Jayakumar
 	- Description: RC car integrated with omni wheels to move in 4 directions and create drift. Controlled through bluetooth 3D-printed remote controller.
-	- No Image provided ;-; 
+	- <details><summary>Image</summary><img src="Images/25Sp/Omnicar_Team.png" style="max-width: 75%;"></details>
 
 Honorable Mentions:
 
