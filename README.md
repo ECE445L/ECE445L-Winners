@@ -268,11 +268,35 @@ Lost to time due to COVID. Message us if you have info
 
 [Flickr Album](https://www.flickr.com/photos/utece/albums/72157626661856278)
 
+## Fall 2010
+
+[Valvano's Photo Album](https://web.archive.org/web/20151029120742/http://picasaweb.google.com/117166099287698137367/EE445LDesignCompetition?gsessionid=Rjfxc8A1PoBoZqY3wujmEw)
+
+## Fall 2009
+
+[Valvano's Photo Album](https://web.archive.org/web/20151029113418/http://picasaweb.google.com/117166099287698137367/EE345LDesignCompetition)
+
+## Fall 2008
+
+[Valvano's Website](https://web.archive.org/web/20250704080511/https://users.ece.utexas.edu/~valvano/EE345LF2008/EE345LF08.htm)
+
 ## Spring 2008
 
-[Valvano's Website](https://users.ece.utexas.edu/~valvano/EE345LSp2008/EE345LSp08.htm)
+[Valvano's Website](https://web.archive.org/web/20150501193147/http://users.ece.utexas.edu/%7Evalvano/EE345LSp2008/EE345LSp08.htm)
 
 [Air Guitar](https://www.youtube.com/watch?v=IhRxvGQcwug)
+
+## Fall 2007
+
+[Valvano's Website](https://web.archive.org/web/20080724102048/http://users.ece.utexas.edu/~valvano/EE345LF2007/EE345LF2007.htm)
+
+## Spring 2007
+
+[Valvano's Website](https://web.archive.org/web/20080724101632/http://users.ece.utexas.edu/~valvano/EE345L2007/EE345L2007.htm)
+
+## Spring 2006
+
+[Valvano's Website](https://web.archive.org/web/20070608181335/http://users.ece.utexas.edu/~valvano/EE345L2006/)
 
 ## The Ancient Past
 
