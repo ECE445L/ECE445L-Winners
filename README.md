@@ -276,6 +276,10 @@ Lost to time due to COVID. Message us if you have info
 
 [Valvano's Photo Album](https://web.archive.org/web/20151029113418/http://picasaweb.google.com/117166099287698137367/EE345LDesignCompetition)
 
+## Spring 2009
+
+[Valvano's Website](https://web.archive.org/web/20101201141231/http://users.ece.utexas.edu/~valvano/EE345LSp2009/EE345LSp09.htm)
+
 ## Fall 2008
 
 [Valvano's Website](https://web.archive.org/web/20250704080511/https://users.ece.utexas.edu/~valvano/EE345LF2008/EE345LF08.htm)
