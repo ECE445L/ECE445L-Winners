@@ -307,4 +307,5 @@ Lost to time due to COVID. Message us if you have info
 Ancient history, the class existed but no records can be found.
 
 Missing semesters after Spring 2006: Sp2010, Sp2012, Sp2013, Fa2013, Sp2014, Fa2014, Sp2015, Fa2017, Fa2019, Sp2020
+
 The course was not taught in Fa2006.
