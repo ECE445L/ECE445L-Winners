@@ -268,6 +268,12 @@ Lost to time due to COVID. Message us if you have info
 
 [Flickr Album](https://www.flickr.com/photos/utece/albums/72157626661856278)
 
+## Spring 2008
+
+[Valvano's Website](https://users.ece.utexas.edu/~valvano/EE345LSp2008/EE345LSp08.htm)
+
+[Air Guitar](https://www.youtube.com/watch?v=IhRxvGQcwug)
+
 ## The Ancient Past
 
 Ancient history, the class existed but no records can be found.
