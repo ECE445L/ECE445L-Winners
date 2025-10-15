@@ -264,6 +264,10 @@ Lost to time due to COVID. Message us if you have info
 
 [Flickr Album](https://www.flickr.com/photos/utece/albums/72157628323074175)
 
+## Spring 2011
+
+[Flickr Album](https://www.flickr.com/photos/utece/albums/72157626661856278)
+
 ## The Ancient Past
 
 Ancient history, the class existed but no records can be found.
