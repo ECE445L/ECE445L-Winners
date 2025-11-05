@@ -241,6 +241,12 @@ Lost to time due to COVID. Message us if you have info
 
 [Flickr Album](https://www.flickr.com/photos/utece/albums/72157661313361679)
 
+## Spring 2015
+
+1. Guitar Hero
+   - Team: Ryan Meek, Bryce Arden
+   - <details><summary>Image</summary><img src="Images/15Sp/GuitarHero.JPG" style="max-width: 75%;"><br></details>
+
 ## Fall 2013
 
 [Flickr Album](https://www.flickr.com/photos/utece/albums/72157638421692293)
