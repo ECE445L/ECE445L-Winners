@@ -2,13 +2,35 @@
 
 This is the list of winners of the 445L Embeded System Design Labs.
 
-## Fall 2025
+## Spring 2026
 
 **This could be you!**
 
-1. TBA
-2. TBA
-3. TBA
+## Fall 2025
+
+1. TiPod
+	- Team: Nathan Etheridge, Preston King, Walter Contreras, Justin Thai
+	- Description: iPod capable of decoding and playing MP3 files including metadata. Full battery charging and monitoring system, stereo audio, and compact form factor.
+	- <details><summary>Image</summary><img src="Images/25Fa/TiPod.jpg" style="max-width: 75%;">
+2. Self-Balancing Ping Pong Ball
+	- Team: Megan Lee, Nithin Reddy, Esteban Martinez, Harish Eakambaram Kalai
+	- Description: Robot capable of balancing a ping pong ball and a user-control mode with a gyroscope controller.
+   - <details><summary>Image</summary><img src="Images/25Fa/Self-Balancing Ping Pong Ball.jpeg" style="max-width: 75%;">
+3. Photobooth
+	- Team: Team: Meghana Vinay, Dreylon Tai Nguyen, Diya Rajon, Delaney Acosta
+	- Description: Camera and printer system that takes a picture and communicates with a printer over UART to immediately print your photo.
+	- <details><summary>Image</summary><img src="Images/25Fa/Photobooth.jpg" style="max-width: 75%;"></details>
+
+Honorable Mentions:
+
+- Pong4
+	- Team: Pierson Ybarra, Colton Berger, Carlos Rodriguez, Carson Stark
+	- Description: Connect4 game where moves are done by making a cup pong shot in the allotted time. 1 and 2 player modes with a minimax-based bot algorithm.
+   - <details><summary>Image</summary><img src="Images/25Fa/Pong4.jpg" style="max-width: 75%;"></details>
+- Motion Controller Streetfighter
+	- Team: Mazen Hassouna, Samien Rahman, Tamim Hasan, Krish Parikh
+	- Description: Two-player Streetfighter game with custom wireless motion controllers. The game runs on the TM4C with display data sent over SPI to Artix-7 FPGA for VGA output.
+   - <details><summary>Image</summary><img src="Images/25Fa/Motion Controller Streetfighter.jpg" style="max-width: 75%;"></details>
 
 ## Spring 2025 [(445L & 445M Flickr)](https://www.flickr.com/photos/utece/albums/72177720325502742/)
 
