@@ -1,14 +1,36 @@
 # Overview
 
-This is the list of winners of the 445L Embeded System Design Labs.
+This is the list of winners of the 445L Embedded System Design Labs.
 
-## Fall 2025
+## Spring 2026
 
 **This could be you!**
 
-1. TBA
-2. TBA
-3. TBA
+## Fall 2025
+
+1. TiPod
+	- Team: Nathan Etheridge, Preston King, Walter Contreras, Justin Thai
+	- Description: iPod capable of decoding and playing MP3 files including metadata. Full battery charging and monitoring system, stereo audio, and compact form factor.
+	- <details><summary>Image</summary><img src="Images/25Fa/TiPod.jpg" style="max-width: 75%;">
+2. Self-Balancing Ping Pong Ball
+	- Team: Megan Lee, Nithin Reddy, Esteban Martinez, Harish Eakambaram Kalai
+	- Description: Robot capable of balancing a ping pong ball and a user-control mode with a gyroscope controller.
+   - <details><summary>Image</summary><img src="Images/25Fa/Self-Balancing Ping Pong Ball.jpeg" style="max-width: 75%;">
+3. Photobooth
+	- Team: Team: Meghana Vinay, Dreylon Tai Nguyen, Diya Rajon, Delaney Acosta
+	- Description: Camera and printer system that takes a picture and communicates with a printer over UART to immediately print your photo.
+	- <details><summary>Image</summary><img src="Images/25Fa/Photobooth.jpg" style="max-width: 75%;"><img src="Images/25Fa/Photobooth2.jpg" style="max-width: 75%;"><img src="Images/25Fa/Photobooth3.jpg" style="max-width: 75%;"></details>
+
+Honorable Mentions:
+
+- Pong4
+	- Team: Pierson Ybarra, Colton Berger, Carlos Rodriguez, Carson Stark
+	- Description: Connect4 game where moves are done by making a cup pong shot in the allotted time. 1 and 2 player modes with a minimax-based bot algorithm.
+   - <details><summary>Image</summary><img src="Images/25Fa/Pong4.jpg" style="max-width: 75%;"></details>
+- Motion Controller Streetfighter
+	- Team: Mazen Hassouna, Samien Rahman, Tamim Hasan, Krish Parikh
+	- Description: Two-player Streetfighter game with custom wireless motion controllers. The game runs on the TM4C with display data sent over SPI to Artix-7 FPGA for VGA output.
+   - <details><summary>Image</summary><img src="Images/25Fa/Motion Controller Streetfighter.jpg" style="max-width: 75%;"></details>
 
 ## Spring 2025 [(445L & 445M Flickr)](https://www.flickr.com/photos/utece/albums/72177720325502742/)
 
@@ -16,7 +38,7 @@ This is the list of winners of the 445L Embeded System Design Labs.
 1. Semi-Autonomous Penduloid
 	- Team: Ayngaran Adalarasu, Syed Rayaan Hasan, Siddharth Kolukuluri, Tarun Kholay
 	- Description: 2-wheeled Self-Balancing Robot that detects changes in orientation and utilizes the inverse pendulum principle, realized through 5 control loops, to maintain its balance while subjected to mild external forces and varying payloads. The robot is capable of self-localization and navigation to Aruco-pattern setpoints marked in its environment. 
-	- <details><summary>Image</summary><img src="Images/25Sp/Balance_Robot_Team.jpg" style="max-width: 75%;"><<summary>Image</summary><img src="Images/25Sp/Balance_Robot_Robot.jpg" style="max-width: 75%;"></details>
+	- <details><summary>Image</summary><img src="Images/25Sp/Balance_Robot_Team.jpg" style="max-width: 75%;"><summary>Image</summary><img src="Images/25Sp/Balance_Robot_Robot.jpg" style="max-width: 75%;"></details>
 2. Cup Pong Keil
 	- Team: Abigail Vernon, Aneri Patel, Melanie Velazquez, Pratyush Patra
 	- Description: Automated cup pong robot that autonomously finds cups and changes ping pong launch velocity to beat humans at their own game.
