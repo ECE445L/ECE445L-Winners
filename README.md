@@ -1,10 +1,36 @@
 # Overview
 
-This is the list of winners of the 445L Embedded System Design Labs.
+This is the list of winners of the ECE 445L Embedded System Design Labs at UT Austin.
+
+## Fall 2026
+
+This could be you!
 
 ## Spring 2026
 
-**This could be you!**
+1. LED Globe
+	- Team: Anish Agarwal, Mikail Sadic, Matias Sosa, Jett Vanbrocklin
+	- Description: Spinning LED globe capable of rendering spherical images.
+	- <details><summary>Image</summary><img src="Images/26Sp/LEDGlobe1.jpeg" style="max-width: 75%;"><img src="Images/26Sp/LEDGlobe2.jpeg" style="max-width: 75%;"></details>
+2. Dumb Phone
+	- Team: Travis Beach, Rupak Bhattacharya, Jose Martinez, Arjun Patil
+	- Description: SMS-capable phone with music, games, saveable contacts, and background notifications. Input is done using a real BlackBerry keyboard.
+   - <details><summary>Image</summary><img src="Images/26Sp/DumbPhone1.jpg" style="max-width: 75%;"><img src="Images/26Sp/DumbPhone2.jpg" style="max-width: 75%;"><img src="Images/26Sp/DumbPhone3.jpg" style="max-width: 75%;"></details>
+3. Pen Plotter Robot
+	- Team: Abhirit Das, Jeremy Sheng, Li Shi, Kiefer Soo
+	- Description: Robot arm capable of drawing custom images sent to the device over WiFi.
+	- <details><summary>Image</summary><img src="Images/26Sp/PenPlotter1.jpg" style="max-width: 75%;"><img src="Images/26Sp/PenPlotter2.jpg" style="max-width: 75%;"></details>
+
+Honorable Mentions:
+
+- Guitar Hero
+	- Team: Christopher Deng, Bosa Okafo, Illango Zaruba, Sam Zuniga
+	- Description: Guitar Hero game using real guitars with real time note detection.
+   - <details><summary>Image</summary><img src="Images/26Sp/GuitarHero.jpg" style="max-width: 75%;"></details>
+- VR Racing Simulator
+	- Team: Sebastian Grannen, Jack Korzen, Lyla Milam, Adarsh Payyakkil
+	- Description: VR racing game controllers including steering wheel, pedals, and an IMU-tracked headset.
+   - <details><summary>Image</summary><img src="Images/26Sp/RacingSim.jpeg" style="max-width: 75%;"></details>
 
 ## Fall 2025
 
