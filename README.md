@@ -6,7 +6,7 @@ This is the list of winners of the ECE 445L Embedded System Design Labs at UT Au
 
 This could be you!
 
-## Spring 2026
+## Spring 2026 [(Flickr)](https://www.flickr.com/photos/utece/albums/72177720333291273)
 
 1. LED Globe
 	- Team: Anish Agarwal, Mikail Sadic, Matias Sosa, Jett Vanbrocklin
